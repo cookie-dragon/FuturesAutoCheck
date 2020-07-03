@@ -1,4 +1,5 @@
 {
     "result":true,
-    "message":""
+    "message":"",
+    "debug":true
 }
