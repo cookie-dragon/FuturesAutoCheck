@@ -1,6 +1,6 @@
 {
     "result":true,
     "message":"",
-    "debug":false,
+    "debug":true,
     "log_level":"DEBUG"
 }
